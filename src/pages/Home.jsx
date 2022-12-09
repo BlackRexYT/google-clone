@@ -24,7 +24,7 @@ const Home = () => {
             <div className="home__body">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png" alt="" />
                 <div className="home__inputContainer">
-                    <Search hideButtons />
+                    <Search/>
                 </div>
             </div>
         </div>
